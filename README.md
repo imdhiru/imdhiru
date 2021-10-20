@@ -1,11 +1,11 @@
 About Me:
-✔️ 👋 Hi, I’m @imdhiru .
-✔️ 👀 I’m interested in coding & little bit in hacking stuffs .
-✔️ 🤠 I’m already know html , javascript , bootstrap , mysql , css & xml .
-✔️ 📝 I’m currently learning php, python & ethical courses .
-✔️ 🤹‍♂️ For Chill Join Discord :- Join Here
-✔️ 📧 E-Mail at :- admin@bloginstall.com
-✔️ ☎ Contact me :- Telegram
+-✔️ 👋 Hi, I’m @imdhiru .
+-✔️ 👀 I’m interested in coding & little bit in hacking stuffs .
+-✔️ 🤠 I’m already know html , javascript , bootstrap , mysql , css & xml .
+-✔️ 📝 I’m currently learning php, python & ethical courses .
+-✔️ 🤹‍♂️ For Chill Join Discord :- Join Here
+-✔️ 📧 E-Mail at :- admin@bloginstall.com
+-✔️ ☎ Contact me :- Telegram
 
 Languages and Tools:
 HTML5
