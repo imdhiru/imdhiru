@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhir Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="center"><a href="https://t.me/techiesneh" rel="nofollow"><img src="/techiesneh/techiesneh/raw/main/techiesneh.gif" alt="Hello" style="max-width: 100%;"></a></p>
+<p align="center"><a href="https://t.me/techiesneh" rel="nofollow"><img src="https://raw.githubusercontent.com/techiesneh/techiesneh/main/techiesneh.gif" alt="Hello" style="max-width: 100%;"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdhiru&label=Profile%20views&color=0e75b6&style=flat" alt="imdhiru" /> </p>
 
